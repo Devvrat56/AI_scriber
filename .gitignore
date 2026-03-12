@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Media & Transcripts
+*.mp4
+*.wav
+*.mp3
+*.m4a
+*_transcript_*.txt
+*_medical_details.json
+*_entities.json
+*_clinical_summary.txt
+
+# Knowledge Base
+medical_knowledge_base/
+
+# Logs
+*.log
