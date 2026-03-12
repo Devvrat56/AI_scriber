@@ -1,0 +1,17 @@
+streamlit
+torch
+transformers==4.46.3
+sentence-transformers
+scispacy
+spacy
+librosa
+noisereduce
+faiss-cpu
+langchain-community
+langchain-text-splitters
+numba
+numpy
+scipy
+soundfile
+accelerate
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz
